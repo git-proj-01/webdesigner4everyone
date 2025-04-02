@@ -1,2 +1,2 @@
-# webdesigner4everyone.igthub.io
+# webdesigner4everyone
 The website for design for Everyone
